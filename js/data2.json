@@ -1,0 +1,100 @@
+{
+    "rating": {
+        "max": 10,
+        "average": 6.9,
+        "stars": "35",
+        "min": 0
+    },
+    "reviews_count": 195,
+    "wish_count": 14500,
+    "douban_site": "",
+    "year": "2017",
+    "images": {
+        "small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2456571580.webp",
+        "large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2456571580.webp",
+        "medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2456571580.webp"
+    },
+    "alt": "https://movie.douban.com/subject/26718838/",
+    "id": "26718838",
+    "mobile_url": "https://movie.douban.com/subject/26718838/mobile",
+    "title": "异星觉醒",
+    "do_count": null,
+    "share_url": "https://m.douban.com/movie/subject/26718838",
+    "seasons_count": null,
+    "schedule_url": "https://movie.douban.com/subject/26718838/cinema/",
+    "episodes_count": null,
+    "countries": [
+        "美国"
+    ],
+    "genres": [
+        "科幻",
+        "惊悚",
+        "恐怖"
+    ],
+    "collect_count": 13002,
+    "casts": [
+        {
+            "alt": "https://movie.douban.com/celebrity/1048002/",
+            "avatars": {
+                "small": "https://img1.doubanio.com/img/celebrity/small/12737.jpg",
+                "large": "https://img1.doubanio.com/img/celebrity/large/12737.jpg",
+                "medium": "https://img1.doubanio.com/img/celebrity/medium/12737.jpg"
+            },
+            "name": "杰克·吉伦哈尔",
+            "id": "1048002"
+        },
+        {
+            "alt": "https://movie.douban.com/celebrity/1088314/",
+            "avatars": {
+                "small": "https://img3.doubanio.com/img/celebrity/small/1376924506.04.jpg",
+                "large": "https://img3.doubanio.com/img/celebrity/large/1376924506.04.jpg",
+                "medium": "https://img3.doubanio.com/img/celebrity/medium/1376924506.04.jpg"
+            },
+            "name": "丽贝卡·弗格森",
+            "id": "1088314"
+        },
+        {
+            "alt": "https://movie.douban.com/celebrity/1053623/",
+            "avatars": {
+                "small": "https://img1.doubanio.com/img/celebrity/small/48608.jpg",
+                "large": "https://img1.doubanio.com/img/celebrity/large/48608.jpg",
+                "medium": "https://img1.doubanio.com/img/celebrity/medium/48608.jpg"
+            },
+            "name": "瑞恩·雷诺兹",
+            "id": "1053623"
+        },
+        {
+            "alt": "https://movie.douban.com/celebrity/1027879/",
+            "avatars": {
+                "small": "https://img3.doubanio.com/img/celebrity/small/1390073617.82.jpg",
+                "large": "https://img3.doubanio.com/img/celebrity/large/1390073617.82.jpg",
+                "medium": "https://img3.doubanio.com/img/celebrity/medium/1390073617.82.jpg"
+            },
+            "name": "真田广之",
+            "id": "1027879"
+        }
+    ],
+    "current_season": null,
+    "original_title": "Life",
+    "summary": "几位漂浮在空间站的宇航员们发现了一个来自火星的“神秘样本”，这个样本其实就是他们一直在找寻的高智能“智慧生命体”。它不仅集肌细胞、神经细胞于一体，更拥有超强大脑，能够进行超能进化。但却不知其体内竟然暗藏巨大的杀机，导致整个空间站都弥漫着死亡的气息，人类的命运也危在旦夕。",
+    "subtype": "movie",
+    "directors": [
+        {
+            "alt": "https://movie.douban.com/celebrity/1000735/",
+            "avatars": {
+                "small": "https://img1.doubanio.com/img/celebrity/small/1371181573.89.jpg",
+                "large": "https://img1.doubanio.com/img/celebrity/large/1371181573.89.jpg",
+                "medium": "https://img1.doubanio.com/img/celebrity/medium/1371181573.89.jpg"
+            },
+            "name": "丹尼尔·伊斯皮诺萨",
+            "id": "1000735"
+        }
+    ],
+    "comments_count": 7236,
+    "ratings_count": 12763,
+    "aka": [
+        "外星生命(港)",
+        "异星智慧(台)",
+        "生命"
+    ]
+}
