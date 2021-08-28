@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T20:10:30.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="5siDXHZmWJcRZrtM0Pvg" version="14.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-28T20:14:50.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="Vaz6nDd-E9fdfAFSaYgG" version="14.9.9" type="github" pages="2">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="1186" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -318,7 +318,7 @@
           <mxGeometry x="655" y="525" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7zcBk7F_4h8mx38gcnLj-13" value="前&lt;br style=&quot;font-size: 25px;&quot;&gt;端&lt;br style=&quot;font-size: 25px;&quot;&gt;技&lt;br style=&quot;font-size: 25px;&quot;&gt;术&lt;br style=&quot;font-size: 25px;&quot;&gt;架&lt;br style=&quot;font-size: 25px;&quot;&gt;构" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fontSize=25;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="295" width="70" height="190" as="geometry" />
+          <mxGeometry x="70" y="295" width="40" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
