@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-29T13:36:17.346Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="iTXlMSZzzMbRJdtXzGHH" version="14.9.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-29T13:38:29.347Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="TizSZPZow5JTKOkC_evz" version="14.9.9" type="github" pages="3">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="1186" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -562,7 +562,7 @@
         <mxCell id="B5WTbH7fjXNA-Yi_uCf5-0" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px&quot;&gt;兑好礼&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
           <mxGeometry x="540.5" y="350" width="189.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B5WTbH7fjXNA-Yi_uCf5-2" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left&quot;&gt;积分换礼专栏&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
+        <mxCell id="B5WTbH7fjXNA-Yi_uCf5-2" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;arial normal&amp;quot;, arial, sans-serif; font-size: 13px;&quot;&gt;积分换礼专栏&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
           <mxGeometry x="540.5" y="370" width="189.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B5WTbH7fjXNA-Yi_uCf5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=17;fontColor=#000000;align=center;verticalAlign=top;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
@@ -577,19 +577,19 @@
         <mxCell id="B5WTbH7fjXNA-Yi_uCf5-9" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left&quot;&gt;知健康&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
           <mxGeometry x="768" y="350" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B5WTbH7fjXNA-Yi_uCf5-10" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left&quot;&gt;内容专栏，主要为PGC，健康养生文章运营&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
+        <mxCell id="B5WTbH7fjXNA-Yi_uCf5-10" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;arial normal&amp;quot;, arial, sans-serif; font-size: 13px;&quot;&gt;内容专栏，主要为PGC，健康养生文章运营&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
           <mxGeometry x="758" y="370" width="210" height="55" as="geometry" />
         </mxCell>
         <mxCell id="B5WTbH7fjXNA-Yi_uCf5-11" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left&quot;&gt;享服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
           <mxGeometry x="997.75" y="350" width="186.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B5WTbH7fjXNA-Yi_uCf5-12" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left&quot;&gt;门店类服务预约、挂号等，主要促成门店服务订单生成，为门店引流&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
+        <mxCell id="B5WTbH7fjXNA-Yi_uCf5-12" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;arial normal&amp;quot;, arial, sans-serif; font-size: 13px;&quot;&gt;门店类服务预约、挂号等，主要促成门店服务订单生成，为门店引流&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
           <mxGeometry x="986" y="370" width="204" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B5WTbH7fjXNA-Yi_uCf5-13" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left&quot;&gt;个人中心&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
           <mxGeometry x="1219.75" y="350" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B5WTbH7fjXNA-Yi_uCf5-14" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left&quot;&gt;会员自有信息及数据管理维护，如积分礼单、消费记录、预约记录、积分流水记录、个人信息完善、收货地址管理，收费会员权益包&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
+        <mxCell id="B5WTbH7fjXNA-Yi_uCf5-14" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;arial normal&amp;quot;, arial, sans-serif; font-size: 13px;&quot;&gt;会员自有信息及数据管理维护，如积分礼单、消费记录、预约记录、积分流水记录、个人信息完善、收货地址管理，收费会员权益包&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
           <mxGeometry x="1210" y="370" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="B5WTbH7fjXNA-Yi_uCf5-19" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left&quot;&gt;迭代规划&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
@@ -651,6 +651,12 @@
         </mxCell>
         <mxCell id="HXXYteGgFXnJ_ECmeRaZ-31" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px&quot;&gt;迭代实现会员邀请裂变功能，通过分享及招募任务配置，实现老带新的招募奖励方案，自由实现任务及奖励配置，提升产品的拉新能力&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
           <mxGeometry x="690" y="520" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HXXYteGgFXnJ_ECmeRaZ-33" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial normal&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left&quot;&gt;礼品卡商城&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=17;fontColor=#000000;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
+          <mxGeometry x="439.5" y="690" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HXXYteGgFXnJ_ECmeRaZ-34" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;quot;arial normal&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif ; font-size: 13px&quot;&gt;会员中心发放礼品卡，会员可进行绑卡礼品卡支付兑换商品&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontColor=#000000;align=center;verticalAlign=middle;" vertex="1" parent="oRkXUJeES5WaZtmXxf2e-1">
+          <mxGeometry x="520" y="690" width="920" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
