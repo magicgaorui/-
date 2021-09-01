@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T05:50:50.139Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="B9dqoXQXzO1v0B-s_tAF" version="15.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-09-01T07:14:19.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="CbZsfAxx_og39QpJuixO" version="15.0.3" type="github" pages="6">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="818" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -776,7 +776,7 @@
         <mxCell id="_CpaGVbEtYgrnTX3BohN-15" value="建&lt;br style=&quot;font-size: 30px;&quot;&gt;议" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#fad7ac;strokeColor=#b46504;fontSize=30;" vertex="1" parent="_CpaGVbEtYgrnTX3BohN-1">
           <mxGeometry x="600" y="860" width="70" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_CpaGVbEtYgrnTX3BohN-16" value="&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;目前很多项目是多人开发，git分支名称随意命名，大部分是自定义分支，分支管理紊乱，导致代码回滚、合并代码等各种冲突。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;align=left;verticalAlign=middle;strokeColor=#6c8ebf;" vertex="1" parent="_CpaGVbEtYgrnTX3BohN-1">
+        <mxCell id="_CpaGVbEtYgrnTX3BohN-16" value="&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;目前很多项目是多人开发，git分支大多是自定义命名，命名随意，且分支管理紊乱，导致代码回滚、合并等操作时频发问题。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;align=left;verticalAlign=middle;strokeColor=#6c8ebf;" vertex="1" parent="_CpaGVbEtYgrnTX3BohN-1">
           <mxGeometry x="720" y="660" width="470" height="150" as="geometry" />
         </mxCell>
         <mxCell id="_CpaGVbEtYgrnTX3BohN-17" value="&lt;span style=&quot;font-size: 20px&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;span style=&quot;white-space: pre ; font-size: 20px&quot;&gt;	&lt;/span&gt;建议使用git-flow分支模型管理分支，分支管理严格按照git-flow工作流，规范代码分支，分支可维护。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;align=left;verticalAlign=middle;strokeColor=#6c8ebf;" vertex="1" parent="_CpaGVbEtYgrnTX3BohN-1">
