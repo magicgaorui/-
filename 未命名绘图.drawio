@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T07:14:19.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="CbZsfAxx_og39QpJuixO" version="15.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-09-03T01:09:21.045Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="4O4xnXQ8neB1rZqidrLl" version="15.0.3" type="github" pages="7">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
-    <mxGraphModel dx="818" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1425" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -501,7 +501,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8gM7wuWB41DcsW_bGW_a" name="项目汇报">
-    <mxGraphModel dx="818" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="818" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="oRkXUJeES5WaZtmXxf2e-0" />
         <mxCell id="oRkXUJeES5WaZtmXxf2e-1" parent="oRkXUJeES5WaZtmXxf2e-0" />
@@ -786,7 +786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fIQzEL9k50I_8Lc-2Ydk" name="技术栈">
-    <mxGraphModel dx="2066" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="jwP-N3N8pNNqqlG_xPFH-0" />
         <mxCell id="jwP-N3N8pNNqqlG_xPFH-1" parent="jwP-N3N8pNNqqlG_xPFH-0" />
@@ -939,6 +939,14 @@
         <mxCell id="CN04VIBnXqU6nojJ-XSa-52" value="Redux" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;" vertex="1" parent="jwP-N3N8pNNqqlG_xPFH-1">
           <mxGeometry x="1525" y="85" width="70" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A-vRTqI-PpAbm2tESLzV" name="第 7 页">
+    <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="HZcWPtqWnx0D243l2sb7-0" />
+        <mxCell id="HZcWPtqWnx0D243l2sb7-1" parent="HZcWPtqWnx0D243l2sb7-0" />
       </root>
     </mxGraphModel>
   </diagram>
