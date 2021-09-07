@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T01:21:47.483Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="AQcAZISG4Q2zQ-7R5WDr" version="15.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-07T01:36:15.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="i8l9ldft_DBRAP0n6gzl" version="15.0.6" type="github" pages="7">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -999,7 +999,7 @@
           <mxGeometry x="330" y="320" width="630" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;dashed=1;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="700" y="1000" width="1140" height="575" as="geometry" />
+          <mxGeometry x="210" y="1560" width="1140" height="575" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1010" y="320" width="610" height="180" as="geometry" />
@@ -1011,40 +1011,31 @@
           <mxGeometry x="1023" y="400" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1080" y="584" width="200" height="118" as="geometry" />
+          <mxGeometry x="1010" y="522" width="490" height="198" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-26" value="&lt;span&gt;develop分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1120" y="602" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-27" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;主开发分支 , 基于master&lt;br&gt;分支克隆&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1093" y="647" width="190" height="40" as="geometry" />
+          <mxGeometry x="1043" y="537" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1080" y="742" width="200" height="200" as="geometry" />
+          <mxGeometry x="1010" y="742" width="730" height="138" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-29" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;feature&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1120" y="760" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-30" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#404040&quot;&gt;功能开发分支 , 基于&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#404040&quot;&gt;develop分支克隆 ,主要&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#404040&quot;&gt;用于新需求新功能的开&lt;br&gt;发，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(51 , 51 , 51) ; font-family: , &amp;#34;sf ui text&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif , &amp;#34;simhei&amp;#34; , &amp;#34;simsun&amp;#34;&quot;&gt;feature功能分支完&lt;br&gt;成 , 合并到develop&lt;br&gt;(不推送)&lt;/span&gt;&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1098" y="812" width="180" height="120" as="geometry" />
+          <mxGeometry x="1040" y="755" width="670" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1700" y="620" width="200" height="140" as="geometry" />
+          <mxGeometry x="1010" y="900" width="640" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-32" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;release&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1740" y="638" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-33" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;测试分支 , 基于feature&lt;br&gt;分支合并到develop之&lt;br&gt;后 , 从develop分支克隆&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1713" y="685" width="180" height="60" as="geometry" />
+          <mxGeometry x="1040" y="914" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1700" y="802" width="200" height="140" as="geometry" />
+          <mxGeometry x="1890" y="792" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-36" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;hotfix&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1740" y="820" width="120" height="30" as="geometry" />
+          <mxGeometry x="1930" y="810" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-37" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;补丁分支 , 基于master&lt;br&gt;分支克隆 , 主要用于对&lt;br&gt;线上的版本进行BUG修复&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1713" y="867" width="190" height="60" as="geometry" />
+          <mxGeometry x="1903" y="857" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-38" value="主分支 , 产品的功能全部实现后 , 最终在master分支对外发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1030" y="380" width="440" height="20" as="geometry" />
@@ -1057,6 +1048,39 @@
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-42" value="例如release合并到master , 或hotfix合并到master" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1030" y="468" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-43" value="主开发分支 , 基于master分支克隆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1038" y="581" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-45" value="&amp;nbsp;包含所有要发布到下一个release的代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1030" y="608" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-46" value="feature功能分支完成 , 合并到develop(不推送)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1035" y="635" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-47" value="develop拉取release分支 , 提测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1038" y="660" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-48" value="release/hotfix 分支上线完毕 , 合并到develop并推送" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1035" y="685" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-50" value="功能开发分支 , 基于develop分支克隆 , 主要用于新需求新功能的开发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1030" y="795" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-51" value="功能开发完毕后合到develop分支(未正式上线之前不推送到远程中央仓库)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1031" y="820" width="530" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-52" value="feature分支可同时存在多个 , 用于团队中多个功能同时开发 , 属于临时分支 , 功能完成后可选删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1030" y="847" width="700" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-53" value="测试分支 , 基于feature分支合并到develop之后&amp;nbsp; , 从develop分支克隆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1032" y="956" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-54" value="主要用于提交给测试人员进行功能测试 , 测试过程中发现的BUG在本分支进行&lt;br&gt;修复 ,修复完成上线后合并到develop/master分支并推送(完成功能) , 打Tag" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1040" y="983" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-55" value="属于临时分支 , 功能上线后可选删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1034" y="1030" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
