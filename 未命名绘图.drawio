@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T02:15:07.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="qha5X3q6OnjzIOhO_Y27" version="15.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-07T02:21:17.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0JjGIrXBzFMhDpoCbO48" version="15.0.6" type="github" pages="7">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1029,10 +1029,10 @@
           <mxGeometry x="1040" y="944" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1020" y="1150" width="550" height="200" as="geometry" />
+          <mxGeometry x="1010" y="1144" width="550" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-36" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;hotfix&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1048" y="1164" width="492" height="30" as="geometry" />
+          <mxGeometry x="1038" y="1158" width="492" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-38" value="主分支 , 产品的功能全部实现后 , 最终在master分支对外发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1030" y="380" width="440" height="20" as="geometry" />
@@ -1080,58 +1080,64 @@
           <mxGeometry x="1034" y="1060" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-56" value="补丁分支 , 基于master分支克隆 , 主要用于对线上的版本进行BUG修复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1040" y="1206" width="510" height="20" as="geometry" />
+          <mxGeometry x="1030" y="1200" width="510" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-57" value="修复完毕后合并到develop/master分支并推送 , 打Tag" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1039" y="1232" width="390" height="20" as="geometry" />
+          <mxGeometry x="1029" y="1226" width="390" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-58" value="属于临时分支 , 补丁修复上线后可选删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1042" y="1258" width="300" height="20" as="geometry" />
+          <mxGeometry x="1032" y="1252" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-59" value="所有hotfix分支的修改会进入到下一个release" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1042" y="1285" width="330" height="20" as="geometry" />
+          <mxGeometry x="1032" y="1279" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;align=left;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="30" y="880" width="960" height="420" as="geometry" />
+          <mxGeometry x="30" y="924" width="960" height="420" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-61" value="主要工作流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="40" y="894" width="110" height="20" as="geometry" />
+          <mxGeometry x="40" y="938" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-62" value="1.初始化项目为gitflow，默认创建master分支，然后从master拉取第一个develop分支；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="37" y="924" width="630" height="20" as="geometry" />
+          <mxGeometry x="37" y="968" width="630" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-0" value="2.从develop拉取feature分支进行编码开发(多个开发人员拉取多个feature同时进行并行开发，互不影响)；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="35" y="956" width="760" height="20" as="geometry" />
+          <mxGeometry x="35" y="1000" width="760" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-1" value="3.feature分支完成后，合并到develop(不推送，feature功能完成还未提测，推送后会影响其他功能分支的开发)，合并feature&lt;br&gt;&amp;nbsp; &amp;nbsp;到develop，可以选择删除当前feature，也可以不删除，但当前feature就不可更改了，必须从release分支继续编码修改；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;horizontal=1;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="44" y="990" width="880" height="40" as="geometry" />
+          <mxGeometry x="44" y="1034" width="880" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-2" value="4.从develop拉取release分支进行提测 , 提测过程中在release分支上修改BUG；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="39" y="1040" width="570" height="20" as="geometry" />
+          <mxGeometry x="39" y="1084" width="570" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-3" value="5.release分支上线后，合并release分支到develop/master并推送合并之后，可选删除当前release分支，若不删除，&lt;br&gt;&amp;nbsp; &amp;nbsp;则当前release不可修改，线上有问题也必须从master拉取hotfix分支进行修改；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="43" y="1070" width="820" height="40" as="geometry" />
+          <mxGeometry x="43" y="1114" width="820" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-4" value="6.上线之后若发现线上BUG，从master拉取hotfix进行BUG修改；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="38" y="1124" width="470" height="20" as="geometry" />
+          <mxGeometry x="38" y="1168" width="470" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-5" value="7.hotfix通过测试上线后 , 合并hotfix分支到develop/master并推送合并之后 , 可选删除当前hostfix ,若不删除 , 则当前hotfix不可&lt;br&gt;&amp;nbsp; &amp;nbsp;修改 , 若补丁未修复 , 需要从master拉取新的hotfix继续修改；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="43" y="1152" width="890" height="40" as="geometry" />
+          <mxGeometry x="43" y="1196" width="890" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-6" value="8.当进行一个feature时，若develop分支有变动，如其他开发人员完成功能并上线，则需要将完成的功能合并到自己分支上即&lt;br&gt;&amp;nbsp; &amp;nbsp;合并develop到当前feature分支；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="42" y="1201" width="890" height="40" as="geometry" />
+          <mxGeometry x="42" y="1245" width="890" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-7" value="9.当进行一个release分支时，若develop分支有变动，如其他开发人员完成功能并上线，则需要将完成的功能合并到自己分支上，即合&lt;br&gt;&amp;nbsp; &amp;nbsp;并develop到当前release分支(当前release分支通过测试后会发布到线上，如果不合并最新的develop分支，就会发生丢代码的情况)；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="41" y="1250" width="960" height="40" as="geometry" />
+          <mxGeometry x="41" y="1294" width="960" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9x1hDnko4j-Itu5QtuYH-8" value="命名为：feature/日期-[版本号 | jira号]，例如：feature/20210907-v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1030" y="874" width="520" height="20" as="geometry" />
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-8" value="命名为:feature/日期-[版本号 | jira号]，例如：feature/20210907-v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1028" y="874" width="510" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-9" value="命名为:release/日期-[版本号 | jira号]，例如：release/20210907-v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1035" y="1088" width="510" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-10" value="命名为:hotfix/日期-[版本号 | jira号]，例如：hotfix/20210907-v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1044" y="1310" width="480" height="20" as="geometry" />
+          <mxGeometry x="1034" y="1304" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-11" value="集成平台前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="355" y="240" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-12" value="命名为：tag/版本号，例如: tag/v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="40" y="847" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
