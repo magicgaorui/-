@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T01:45:57.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="IKHTrr6ikbxhUq4PQQJ-" version="15.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-07T01:54:14.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="35KmkiaSPpJWtFMnZbJo" version="15.0.6" type="github" pages="7">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1097,8 +1097,20 @@
         <mxCell id="HYaaetvYi74AfYBivFBS-61" value="主要工作流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="40" y="894" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-62" value="1.初始化项目为gitflow , 默认创建master分支 , 然后从master拉取第一个develop分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+        <mxCell id="HYaaetvYi74AfYBivFBS-62" value="1.初始化项目为gitflow，默认创建master分支，然后从master拉取第一个develop分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="40" y="924" width="610" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-0" value="2.从develop拉取feature分支进行编码开发(多个开发人员拉取多个feature同时进行并行开发，互不影响)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="38" y="956" width="740" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-1" value="3.feature分支完成后，合并到develop(不推送，feature功能完成还未提测，推送后会影响其他功能分支的开发)，合并feature&lt;br&gt;&amp;nbsp; &amp;nbsp;到develop，可以选择删除当前feature，也可以不删除，但当前feature就不可更改了，必须从release分支继续编码修改" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;horizontal=1;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="43" y="990" width="880" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-2" value="4.从develop拉取release分支进行提测 , 提测过程中在release分支上修改BUG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="35" y="1040" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-3" value="5.release分支上线后，合并release分支到develop/master并推送合并之后，可选删除当前release分支，若不删除，&lt;br&gt;&amp;nbsp; &amp;nbsp;则当前release不可修改，线上有问题也必须从master拉取hotfix分支进行修改" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="43" y="1070" width="820" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
