@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T01:36:15.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="i8l9ldft_DBRAP0n6gzl" version="15.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-07T01:44:02.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="s9DKem0bc2M0_jpuqCwG" version="15.0.6" type="github" pages="7">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1029,13 +1029,10 @@
           <mxGeometry x="1040" y="914" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1890" y="792" width="200" height="140" as="geometry" />
+          <mxGeometry x="1010" y="1080" width="550" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-36" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;hotfix&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1930" y="810" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-37" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;补丁分支 , 基于master&lt;br&gt;分支克隆 , 主要用于对&lt;br&gt;线上的版本进行BUG修复&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="1903" y="857" width="190" height="60" as="geometry" />
+          <mxGeometry x="1038" y="1094" width="492" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-38" value="主分支 , 产品的功能全部实现后 , 最终在master分支对外发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1030" y="380" width="440" height="20" as="geometry" />
@@ -1081,6 +1078,18 @@
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-55" value="属于临时分支 , 功能上线后可选删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1034" y="1030" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-56" value="补丁分支 , 基于master分支克隆 , 主要用于对线上的版本进行BUG修复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1030" y="1136" width="510" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-57" value="修复完毕后合并到develop/master分支并推送 , 打Tag" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1029" y="1162" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-58" value="属于临时分支 , 补丁修复上线后可选删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1032" y="1188" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-59" value="所有hotfix分支的修改会进入到下一个release" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1034" y="1215" width="330" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
