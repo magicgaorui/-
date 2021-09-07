@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T02:21:17.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0JjGIrXBzFMhDpoCbO48" version="15.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-07T02:31:07.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ii38aLCIbVEI_QcRdqZQ" version="15.0.6" type="github" pages="7">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -950,29 +950,29 @@
         <mxCell id="HYaaetvYi74AfYBivFBS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="HZcWPtqWnx0D243l2sb7-1" source="HYaaetvYi74AfYBivFBS-0" target="HYaaetvYi74AfYBivFBS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="330" y="420" width="240" height="60" as="geometry" />
+        <mxCell id="HYaaetvYi74AfYBivFBS-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="240" y="560" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-1" value="master/主分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="380" y="435" width="140" height="30" as="geometry" />
+          <mxGeometry x="290" y="575" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="HZcWPtqWnx0D243l2sb7-1" source="HYaaetvYi74AfYBivFBS-3" target="HYaaetvYi74AfYBivFBS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="330" y="640" width="240" height="60" as="geometry" />
+        <mxCell id="HYaaetvYi74AfYBivFBS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="240" y="780" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-6" value="develop/主开发分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="355" y="655" width="190" height="30" as="geometry" />
+          <mxGeometry x="265" y="795" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.546;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="HZcWPtqWnx0D243l2sb7-1" source="HYaaetvYi74AfYBivFBS-7" target="HYaaetvYi74AfYBivFBS-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="330" y="770" width="240" height="60" as="geometry" />
+        <mxCell id="HYaaetvYi74AfYBivFBS-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="240" y="910" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-8" value="feature/功能分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="370" y="785" width="160" height="30" as="geometry" />
+          <mxGeometry x="280" y="925" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="HZcWPtqWnx0D243l2sb7-1" source="HYaaetvYi74AfYBivFBS-9" target="HYaaetvYi74AfYBivFBS-0">
           <mxGeometry relative="1" as="geometry" />
@@ -982,26 +982,23 @@
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="849" y="550" as="sourcePoint" />
-            <mxPoint x="849.04" y="480" as="targetPoint" />
+            <mxPoint x="759" y="690" as="sourcePoint" />
+            <mxPoint x="759.04" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="720" y="550" width="240" height="60" as="geometry" />
+        <mxCell id="HYaaetvYi74AfYBivFBS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="630" y="690" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-10" value="release/预发布分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="745" y="565" width="190" height="30" as="geometry" />
+          <mxGeometry x="655" y="705" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-18" value="tag/标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="720" y="420" width="240" height="60" as="geometry" />
+        <mxCell id="HYaaetvYi74AfYBivFBS-18" value="tag/标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="630" y="560" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-20" value="git-flow分支模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="330" y="320" width="630" height="60" as="geometry" />
+        <mxCell id="HYaaetvYi74AfYBivFBS-20" value="git-flow分支模型架构图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="240" y="460" width="630" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;dashed=1;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="210" y="1560" width="1140" height="575" as="geometry" />
-        </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+        <mxCell id="HYaaetvYi74AfYBivFBS-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1010" y="320" width="610" height="180" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-23" value="&lt;span&gt;master分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
@@ -1010,25 +1007,25 @@
         <mxCell id="HYaaetvYi74AfYBivFBS-24" value="&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1023" y="400" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+        <mxCell id="HYaaetvYi74AfYBivFBS-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1010" y="522" width="490" height="198" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-26" value="&lt;span&gt;develop分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1043" y="537" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+        <mxCell id="HYaaetvYi74AfYBivFBS-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1010" y="742" width="730" height="168" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-29" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;feature&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1040" y="755" width="670" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+        <mxCell id="HYaaetvYi74AfYBivFBS-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1010" y="930" width="640" height="190" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-32" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;release&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1040" y="944" width="580" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+        <mxCell id="HYaaetvYi74AfYBivFBS-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1010" y="1144" width="550" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-36" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;hotfix&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
@@ -1091,38 +1088,38 @@
         <mxCell id="HYaaetvYi74AfYBivFBS-59" value="所有hotfix分支的修改会进入到下一个release" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1032" y="1279" width="330" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HYaaetvYi74AfYBivFBS-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;align=left;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="30" y="924" width="960" height="420" as="geometry" />
+        <mxCell id="HYaaetvYi74AfYBivFBS-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;align=left;verticalAlign=middle;strokeColor=#82b366;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="30" y="1000" width="960" height="420" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-61" value="主要工作流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="40" y="938" width="110" height="20" as="geometry" />
+          <mxGeometry x="40" y="1014" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-62" value="1.初始化项目为gitflow，默认创建master分支，然后从master拉取第一个develop分支；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="37" y="968" width="630" height="20" as="geometry" />
+          <mxGeometry x="37" y="1044" width="630" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-0" value="2.从develop拉取feature分支进行编码开发(多个开发人员拉取多个feature同时进行并行开发，互不影响)；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="35" y="1000" width="760" height="20" as="geometry" />
+          <mxGeometry x="35" y="1076" width="760" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-1" value="3.feature分支完成后，合并到develop(不推送，feature功能完成还未提测，推送后会影响其他功能分支的开发)，合并feature&lt;br&gt;&amp;nbsp; &amp;nbsp;到develop，可以选择删除当前feature，也可以不删除，但当前feature就不可更改了，必须从release分支继续编码修改；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;horizontal=1;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="44" y="1034" width="880" height="40" as="geometry" />
+          <mxGeometry x="44" y="1110" width="880" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-2" value="4.从develop拉取release分支进行提测 , 提测过程中在release分支上修改BUG；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="39" y="1084" width="570" height="20" as="geometry" />
+          <mxGeometry x="39" y="1160" width="570" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-3" value="5.release分支上线后，合并release分支到develop/master并推送合并之后，可选删除当前release分支，若不删除，&lt;br&gt;&amp;nbsp; &amp;nbsp;则当前release不可修改，线上有问题也必须从master拉取hotfix分支进行修改；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="43" y="1114" width="820" height="40" as="geometry" />
+          <mxGeometry x="43" y="1190" width="820" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-4" value="6.上线之后若发现线上BUG，从master拉取hotfix进行BUG修改；" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="38" y="1168" width="470" height="20" as="geometry" />
+          <mxGeometry x="38" y="1244" width="470" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-5" value="7.hotfix通过测试上线后 , 合并hotfix分支到develop/master并推送合并之后 , 可选删除当前hostfix ,若不删除 , 则当前hotfix不可&lt;br&gt;&amp;nbsp; &amp;nbsp;修改 , 若补丁未修复 , 需要从master拉取新的hotfix继续修改；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="43" y="1196" width="890" height="40" as="geometry" />
+          <mxGeometry x="43" y="1272" width="890" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-6" value="8.当进行一个feature时，若develop分支有变动，如其他开发人员完成功能并上线，则需要将完成的功能合并到自己分支上即&lt;br&gt;&amp;nbsp; &amp;nbsp;合并develop到当前feature分支；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="42" y="1245" width="890" height="40" as="geometry" />
+          <mxGeometry x="40" y="1320" width="890" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-7" value="9.当进行一个release分支时，若develop分支有变动，如其他开发人员完成功能并上线，则需要将完成的功能合并到自己分支上，即合&lt;br&gt;&amp;nbsp; &amp;nbsp;并develop到当前release分支(当前release分支通过测试后会发布到线上，如果不合并最新的develop分支，就会发生丢代码的情况)；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="41" y="1294" width="960" height="40" as="geometry" />
+          <mxGeometry x="39" y="1370" width="960" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-8" value="命名为:feature/日期-[版本号 | jira号]，例如：feature/20210907-v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1028" y="874" width="510" height="20" as="geometry" />
@@ -1133,11 +1130,20 @@
         <mxCell id="9x1hDnko4j-Itu5QtuYH-10" value="命名为:hotfix/日期-[版本号 | jira号]，例如：hotfix/20210907-v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1034" y="1304" width="480" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9x1hDnko4j-Itu5QtuYH-11" value="集成平台前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="355" y="240" width="110" height="20" as="geometry" />
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;align=left;verticalAlign=middle;strokeColor=#6c8ebf;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1011" y="1360" width="550" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9x1hDnko4j-Itu5QtuYH-12" value="命名为：tag/版本号，例如: tag/v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="40" y="847" width="280" height="20" as="geometry" />
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-14" value="tag标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;align=center;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1031" y="1370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-17" value="命名为：tag/版本号，例如: tag/v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="1121" y="1380" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-18" value="集成平台Git分支管理规范（前端）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="290" y="360" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=30;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="20" y="310" width="1730" height="1120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
