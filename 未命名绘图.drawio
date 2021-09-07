@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T01:44:02.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="s9DKem0bc2M0_jpuqCwG" version="15.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-07T01:45:57.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="IKHTrr6ikbxhUq4PQQJ-" version="15.0.6" type="github" pages="7">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -662,7 +662,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Up14x_spnKQ_zfOJUtSC" name="trt会员中心">
-    <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="MwDOuecY-gj-qFQ0zBE7-0" />
         <mxCell id="MwDOuecY-gj-qFQ0zBE7-1" parent="MwDOuecY-gj-qFQ0zBE7-0" />
@@ -1090,6 +1090,15 @@
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-59" value="所有hotfix分支的修改会进入到下一个release" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="1034" y="1215" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;align=left;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="30" y="880" width="930" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-61" value="主要工作流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="40" y="894" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYaaetvYi74AfYBivFBS-62" value="1.初始化项目为gitflow , 默认创建master分支 , 然后从master拉取第一个develop分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="40" y="924" width="610" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
