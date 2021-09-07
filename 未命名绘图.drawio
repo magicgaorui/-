@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T01:54:14.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="35KmkiaSPpJWtFMnZbJo" version="15.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-07T01:59:20.070Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="tHJT5RS3BOFIZVuh2fuw" version="15.0.6" type="github" pages="7">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="2066" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1092,7 +1092,7 @@
           <mxGeometry x="1034" y="1215" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;align=left;verticalAlign=middle;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
-          <mxGeometry x="30" y="880" width="930" height="370" as="geometry" />
+          <mxGeometry x="30" y="880" width="930" height="470" as="geometry" />
         </mxCell>
         <mxCell id="HYaaetvYi74AfYBivFBS-61" value="主要工作流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="40" y="894" width="110" height="20" as="geometry" />
@@ -1111,6 +1111,15 @@
         </mxCell>
         <mxCell id="9x1hDnko4j-Itu5QtuYH-3" value="5.release分支上线后，合并release分支到develop/master并推送合并之后，可选删除当前release分支，若不删除，&lt;br&gt;&amp;nbsp; &amp;nbsp;则当前release不可修改，线上有问题也必须从master拉取hotfix分支进行修改" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
           <mxGeometry x="43" y="1070" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-4" value="6.上线之后若发现线上BUG，从master拉取hotfix进行BUG修改" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="35" y="1124" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-5" value="7.hotfix通过测试上线后 , 合并hotfix分支到develop/master并推送合并之后 , 可选删除当前hostfix ,若不删除 , 则当前hotfix不可&lt;br&gt;&amp;nbsp; &amp;nbsp;修改 , 若补丁未修复 , 需要从master拉取新的hotfix继续修改" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="43" y="1152" width="890" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9x1hDnko4j-Itu5QtuYH-6" value="8.当进行一个feature时，若develop分支有变动，如其他开发人员完成功能并上线，则需要将完成的功能合并到自己分支上即&lt;br&gt;&amp;nbsp; &amp;nbsp;合并develop到当前feature分支" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="HZcWPtqWnx0D243l2sb7-1">
+          <mxGeometry x="40" y="1202" width="890" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
