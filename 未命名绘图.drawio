@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T05:04:37.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="qAT8l8UEsXN6IBq1mHr7" version="15.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-09-08T05:05:09.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="FVj2QaLhqMtaA3qSS5SK" version="15.0.6" type="github" pages="8">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1268,10 +1268,10 @@
           <mxGeometry x="37" y="1432" width="470" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-56" value="7.hotfix通过测试上线后 , 合并hotfix分支到develop/master并推送合并之后 , 可选&lt;br&gt;&amp;nbsp; &amp;nbsp;删除当前hostfix ，若不删除 , 则当前hotfix不可修改 , 若补丁未修复 , 需要从&lt;br&gt;&amp;nbsp; &amp;nbsp;master拉取新的hotfix继续修改；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="40" y="1460" width="580" height="60" as="geometry" />
+          <mxGeometry x="40" y="1470" width="580" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ttvAucrnoQX4yVgCmQkJ-57" value="8.当进行一个feature时，若develop分支有变动，如其他开发人员完成功能并上线，则需要将完成的&lt;br&gt;&amp;nbsp; &amp;nbsp;功能合并到自己分支上即合并develop到当前feature分支；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="39" y="1570" width="710" height="40" as="geometry" />
+        <mxCell id="ttvAucrnoQX4yVgCmQkJ-57" value="8.当进行一个feature时，若develop分支有变动，如其他开发人员完成功能并上线，&lt;br&gt;&amp;nbsp; &amp;nbsp;则需要将完成的功能合并到自己分支上即合并develop到当前feature分支；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
+          <mxGeometry x="37" y="1540" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-58" value="9.当进行一个release分支时，若develop分支有变动，如其他开发人员完成功能并上线，则需要将&lt;br&gt;&amp;nbsp; &amp;nbsp;完成的功能合并到自己分支上，即合并develop到当前release分支(当前release分支通过测试后会&lt;br&gt;&amp;nbsp; &amp;nbsp;发布到线上，如果不合并最新的develop分支，就会发生丢代码的情况)；" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
           <mxGeometry x="37" y="1660" width="710" height="60" as="geometry" />
