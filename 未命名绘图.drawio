@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T05:22:51.601Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="A4bbVOfeqRQZq1KyE_uN" version="15.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-09-08T05:28:33.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="DCbKM2D8xaYvid-cWobs" version="15.0.6" type="github" pages="8">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1155,52 +1155,57 @@
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-1" parent="ttvAucrnoQX4yVgCmQkJ-0" />
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="521" y="543.5" as="sourcePoint" />
-            <mxPoint x="521" y="660" as="targetPoint" />
+            <mxPoint x="1021" y="543.5" as="sourcePoint" />
+            <mxPoint x="1021" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ttvAucrnoQX4yVgCmQkJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1" source="ttvAucrnoQX4yVgCmQkJ-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="220" y="350.5" width="610" height="193" as="geometry" />
+          <mxGeometry x="720" y="350.5" width="610" height="193" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-19" value="&lt;span&gt;master分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="250" y="372" width="550" height="30" as="geometry" />
+          <mxGeometry x="750" y="372" width="550" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-20" value="&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="233" y="437" width="20" height="20" as="geometry" />
+          <mxGeometry x="733" y="437" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1" source="ttvAucrnoQX4yVgCmQkJ-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="525" y="930" as="targetPoint" />
+            <mxPoint x="1025" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="280" y="660" width="490" height="198" as="geometry" />
+          <mxGeometry x="780" y="660" width="490" height="198" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-22" value="&lt;span&gt;develop分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="313" y="675" width="420" height="30" as="geometry" />
+          <mxGeometry x="813" y="675" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.561;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="852" y="1015" as="sourcePoint" />
-            <mxPoint x="1401.04" y="714.94" as="targetPoint" />
+            <mxPoint x="1332" y="1015" as="sourcePoint" />
+            <mxPoint x="1881.04" y="714.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="160" y="931" width="730" height="168" as="geometry" />
+          <mxGeometry x="660" y="931" width="730" height="168" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-24" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;feature&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="189" y="943" width="670" height="30" as="geometry" />
+          <mxGeometry x="689" y="943" width="670" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.003;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1" source="ttvAucrnoQX4yVgCmQkJ-25" target="ttvAucrnoQX4yVgCmQkJ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1085" y="615" as="sourcePoint" />
-            <mxPoint x="775" y="759" as="targetPoint" />
+            <mxPoint x="1585" y="615" as="sourcePoint" />
+            <mxPoint x="1275" y="759" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="955" y="615" />
-              <mxPoint x="955" y="759" />
+              <mxPoint x="1455" y="615" />
+              <mxPoint x="1455" y="759" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1208,91 +1213,91 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1080" y="520" width="640" height="190" as="geometry" />
+          <mxGeometry x="1580" y="520" width="600" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-26" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;release&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1110" y="534" width="580" height="30" as="geometry" />
+          <mxGeometry x="1610" y="534" width="540" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1010" y="1144" width="550" height="200" as="geometry" />
+          <mxGeometry x="749" y="40" width="550" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-28" value="&lt;span style=&quot;color: rgb(64 , 64 , 64) ; font-family: , , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;hotfix&lt;/span&gt;&lt;span&gt;分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1038" y="1158" width="492" height="30" as="geometry" />
+          <mxGeometry x="777" y="62" width="492" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-29" value="主分支 , 产品的功能全部实现后 , 最终在master分支对外发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="240" y="417" width="440" height="20" as="geometry" />
+          <mxGeometry x="740" y="417" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-30" value="该分支为只读唯一分支 , 只能从其他分支(release/hotfix)合并 , 不能在此分支修改" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="240" y="447" width="580" height="20" as="geometry" />
+          <mxGeometry x="740" y="447" width="580" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-31" value="另外所有在master分支的推送应该打标签做记录,方便追溯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="240" y="477" width="420" height="20" as="geometry" />
+          <mxGeometry x="740" y="477" width="420" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-32" value="例如release合并到master , 或hotfix合并到master" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="240" y="505" width="360" height="20" as="geometry" />
+          <mxGeometry x="740" y="505" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-33" value="主开发分支 , 基于master分支克隆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="308" y="719" width="250" height="20" as="geometry" />
+          <mxGeometry x="808" y="719" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-34" value="&amp;nbsp;包含所有要发布到下一个release的代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="300" y="746" width="300" height="20" as="geometry" />
+          <mxGeometry x="800" y="746" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-35" value="feature功能分支完成 , 合并到develop(不推送)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="305" y="773" width="340" height="20" as="geometry" />
+          <mxGeometry x="805" y="773" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-36" value="develop拉取release分支 , 提测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="308" y="798" width="230" height="20" as="geometry" />
+          <mxGeometry x="808" y="798" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-37" value="release/hotfix 分支上线完毕 , 合并到develop并推送" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="305" y="823" width="380" height="20" as="geometry" />
+          <mxGeometry x="805" y="823" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-38" value="功能开发分支 , 基于develop分支克隆 , 主要用于新需求新功能的开发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="179" y="983" width="500" height="20" as="geometry" />
+          <mxGeometry x="679" y="983" width="500" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-39" value="功能开发完毕后合到develop分支(未正式上线之前不推送到远程中央仓库)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="180" y="1008" width="530" height="20" as="geometry" />
+          <mxGeometry x="680" y="1008" width="530" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-40" value="feature分支可同时存在多个 , 用于团队中多个功能同时开发 , 属于临时分支 , 功能完成后可选删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="179" y="1035" width="700" height="20" as="geometry" />
+          <mxGeometry x="679" y="1035" width="700" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-41" value="测试分支 , 基于feature分支合并到develop之后&amp;nbsp; , 从develop分支克隆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1102" y="576" width="500" height="20" as="geometry" />
+          <mxGeometry x="1602" y="576" width="500" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-42" value="主要用于提交给测试人员进行功能测试 , 测试过程中发现的BUG在本分支进行&lt;br&gt;修复 ,修复完成上线后合并到develop/master分支并推送(完成功能) , 打Tag" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1110" y="603" width="560" height="40" as="geometry" />
+          <mxGeometry x="1610" y="603" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-43" value="属于临时分支 , 功能上线后可选删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1104" y="650" width="270" height="20" as="geometry" />
+          <mxGeometry x="1604" y="650" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-44" value="补丁分支 , 基于master分支克隆 , 主要用于对线上的版本进行BUG修复" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1030" y="1200" width="510" height="20" as="geometry" />
+          <mxGeometry x="769" y="104" width="510" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-45" value="修复完毕后合并到develop/master分支并推送 , 打Tag" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1029" y="1226" width="390" height="20" as="geometry" />
+          <mxGeometry x="768" y="130" width="390" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-46" value="属于临时分支 , 补丁修复上线后可选删除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1032" y="1252" width="300" height="20" as="geometry" />
+          <mxGeometry x="771" y="156" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-47" value="所有hotfix分支的修改会进入到下一个release" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1032" y="1279" width="330" height="20" as="geometry" />
+          <mxGeometry x="771" y="183" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-59" value="命名为:feature/日期-[版本号 | jira号]，例如：feature/20210907-v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="177" y="1062" width="510" height="20" as="geometry" />
+          <mxGeometry x="677" y="1062" width="510" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-60" value="命名为:release/日期-[版本号 | jira号]，例如：release/20210907-v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1105" y="678" width="510" height="20" as="geometry" />
+          <mxGeometry x="1605" y="678" width="510" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-61" value="命名为:hotfix/日期-[版本号 | jira号]，例如：hotfix/20210907-v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1034" y="1304" width="480" height="20" as="geometry" />
+          <mxGeometry x="773" y="208" width="480" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;align=left;verticalAlign=middle;strokeColor=#6c8ebf;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1125" y="350.5" width="550" height="60" as="geometry" />
+          <mxGeometry x="1605" y="350.5" width="550" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-63" value="tag标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;align=center;verticalAlign=middle;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1145" y="360.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="1625" y="360.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-64" value="命名为：tag/版本号，例如: tag/v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
-          <mxGeometry x="1235" y="370.5" width="280" height="20" as="geometry" />
+          <mxGeometry x="1715" y="370.5" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=30;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
           <mxGeometry x="1268" y="1510" width="670" height="640" as="geometry" />
