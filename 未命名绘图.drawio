@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T05:38:58.366Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="o8cj3R0XMJdA9Msj9_j9" version="15.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-09-08T05:39:09.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="FY7icy8jb4OWuPek-WSt" version="15.0.6" type="github" pages="8">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1208,9 +1208,9 @@
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1" source="ttvAucrnoQX4yVgCmQkJ-27" target="ttvAucrnoQX4yVgCmQkJ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ttvAucrnoQX4yVgCmQkJ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=30;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
+        <mxCell id="ttvAucrnoQX4yVgCmQkJ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1589" y="380.5" as="targetPoint" />
+            <mxPoint x="1600" y="381" as="targetPoint" />
             <mxPoint x="389" y="347" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="389" y="327" />
