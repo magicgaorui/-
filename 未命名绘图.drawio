@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T05:21:52.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="c5ei86OXhbUP8IjsSv_k" version="15.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-09-08T05:22:51.601Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="A4bbVOfeqRQZq1KyE_uN" version="15.0.6" type="github" pages="8">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1179,8 +1179,11 @@
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-22" value="&lt;span&gt;develop分支&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffffff;verticalAlign=middle;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
           <mxGeometry x="313" y="675" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ttvAucrnoQX4yVgCmQkJ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.561;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1" source="ttvAucrnoQX4yVgCmQkJ-23" target="ttvAucrnoQX4yVgCmQkJ-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ttvAucrnoQX4yVgCmQkJ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.561;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="852" y="1015" as="sourcePoint" />
+            <mxPoint x="1401.04" y="714.94" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
           <mxGeometry x="160" y="931" width="730" height="168" as="geometry" />
@@ -1200,6 +1203,9 @@
               <mxPoint x="955" y="759" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ttvAucrnoQX4yVgCmQkJ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=30;" edge="1" parent="ttvAucrnoQX4yVgCmQkJ-1" source="ttvAucrnoQX4yVgCmQkJ-25" target="ttvAucrnoQX4yVgCmQkJ-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;spacing=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
           <mxGeometry x="1080" y="520" width="640" height="190" as="geometry" />
