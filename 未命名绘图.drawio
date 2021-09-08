@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T05:39:24.851Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="M6xpFetWHIEFGiKd6e4t" version="15.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-09-08T05:40:37.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="b0iTJYAqRGDXH4Sduw9m" version="15.0.6" type="github" pages="8">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="vue架构图">
     <mxGraphModel dx="1425" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1312,6 +1312,12 @@
         </mxCell>
         <mxCell id="ttvAucrnoQX4yVgCmQkJ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=30;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
           <mxGeometry x="1268" y="1510" width="670" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="ttvAucrnoQX4yVgCmQkJ-99" value="集成平台Git分支管理规范（前端）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
+          <mxGeometry x="850" y="240" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ttvAucrnoQX4yVgCmQkJ-100" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=30;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="ttvAucrnoQX4yVgCmQkJ-1">
+          <mxGeometry x="120" y="220" width="2070" height="990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
